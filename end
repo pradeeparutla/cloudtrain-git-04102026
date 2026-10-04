@@ -1,0 +1,38 @@
+[33mcommit 5de44e100df77e278f9370f3e41ad25bf12a967f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature3[m[33m, [m[1;31morigin/feature3[m[33m)[m
+Author: pradeeparutla <pradeeparutla@gmail.com>
+Date:   Sun Oct 4 10:50:14 2026 +0530
+
+    Adding 2nd text file
+
+[33mcommit e138ef9677d1cdd5fd7d986178b92e0310155472[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature-2[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature-2[m[33m)[m
+Merge: 472d1a0 05c335f
+Author: pradeeparutla <pradeeparutla@gmail.com>
+Date:   Sun Oct 4 10:25:05 2026 +0530
+
+    Merge pull request #1 from pradeeparutla/feature-1
+    
+    Adding text file
+
+[33mcommit 05c335f401e39346908457bda063e1feef2575e6[m[33m ([m[1;31morigin/feature-1[m[33m, [m[1;32mfeature-1[m[33m)[m
+Author: pradeeparutla <pradeeparutla@gmail.com>
+Date:   Sun Oct 4 10:11:31 2026 +0530
+
+    Adding text file
+
+[33mcommit 472d1a0291ce793f20352f290616288e23bf64f4[m
+Author: pradeeparutla <pradeeparutla@gmail.com>
+Date:   Sun Oct 4 09:30:28 2026 +0530
+
+    Committing 2nd changes
+
+[33mcommit bd308651c7969c6329900f45fdec214ca9e3ad4a[m
+Author: pradeeparutla <pradeeparutla@gmail.com>
+Date:   Sun Oct 4 09:23:36 2026 +0530
+
+    Saving changes
+
+[33mcommit fcbfcf2e3da4226319e095b09b47127fa51648c3[m
+Author: pradeeparutla <pradeepkumar.arutla@veradigm.com>
+Date:   Sun Oct 4 08:52:17 2026 +0530
+
+    Initial commit
